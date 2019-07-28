@@ -1,0 +1,19 @@
+print("hello world")
+print("A tipagem do Python é dinâmica, ou seja, ele percebe o tipo de valor e armazena como inteiro ou real etc...")
+print("\n")
+
+nome= "Silver"
+print(nome)
+print("O tipo nome é ", type(nome))
+
+
+print("\n")
+a= 10
+print(a)
+print("O tipo da variável c é ", type(a))
+
+ 
+print("\n")
+peso =2.685
+print(peso)
+print("O tipo peso é ", type(peso))
